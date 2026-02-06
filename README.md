@@ -27,7 +27,11 @@
 
 <br clear="both">
 
-<img align="right" height="140" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
+
+###
+
+<h2 align="center">hey there👋</h2>
 
 ###
 
@@ -85,13 +89,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=siriuszzz17.siriuszzz17&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siriuszzz17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siriuszzz17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
