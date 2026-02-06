@@ -25,8 +25,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
 
 ###
@@ -69,9 +67,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/siriuszzz17/siriuszzz17/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siriuszzz17/siriuszzz17/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siriuszzz17/siriuszzz17/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siriuszzz17/siriuszzz17/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
