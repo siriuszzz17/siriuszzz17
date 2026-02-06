@@ -32,7 +32,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=70&section=header&reversal=false&text=hey%20there%F0%9F%91%8B&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=50&section=header&reversal=false&text=hey%20there%F0%9F%91%8B&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
