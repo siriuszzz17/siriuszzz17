@@ -27,12 +27,12 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
+<img align="right" height="140" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=50&section=header&reversal=false&text=hey%20there%F0%9F%91%8B&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=hey%20there%F0%9F%91%8B&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
