@@ -25,7 +25,7 @@
 
 ###
 
-<img align="right" height="200" z-index="1" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
+<img align="left" height="200" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
 
 ###
 
@@ -64,14 +64,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siriuszzz17/siriuszzz17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siriuszzz17/siriuszzz17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siriuszzz17/siriuszzz17/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
