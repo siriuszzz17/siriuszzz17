@@ -31,12 +31,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=hey%20there%F0%9F%91%8B&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
-
 <p align="left">Olá! Sou aluno na Proz Educação, atualmente cursando Desenvolvimento de Sistemas, busco me profissionalizar nas minhas áreas de interesse que incluem Engenharia de Sistemas.<br>Com esse perfil tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria continua na minha trajetória.</p>
 
 ###
