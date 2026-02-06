@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
 
 ###
 
