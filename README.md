@@ -1,86 +1,48 @@
-<h2 align="left">👨‍💻 Gustavo Martins - Sirius</h2>
+# Olá! Eu sou Gustavo Martins 👋
 
-###
+**Estudante de Desenvolvimento de Sistemas | Desenvolvedor em formação**
 
-<br clear="both">
+Sou estudante de Desenvolvimento de Sistemas e utilizo este espaço para compartilhar projetos, praticar programação e documentar minha evolução como desenvolvedor.
 
-<h6 align="center">Desenvolvimento de Sistemas</h6>
+Tenho interesse em **desenvolvimento backend, engenharia de software e cibersegurança**. Gosto de aprender construindo projetos e buscando soluções práticas para problemas reais.
 
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/gustaa12x?igsh=NnJuMjhzd2F2MXc5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/1470254797503594590" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-martins-neves-furtado-70740b341/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5538992156365" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<img align="left" height="200" src="https://i.pinimg.com/736x/a2/a9/ef/a2a9efe598a5f94a0d9e1a61549bd398.jpg"  />
-
-###
-
-<h3 align="center">hey there👋</h3>
-
-###
-
-<p align="left">Olá! Sou aluno na Proz Educação, atualmente cursando Desenvolvimento de Sistemas, busco me profissionalizar nas minhas áreas de interesse que incluem Engenharia de Sistemas.<br>Com esse perfil tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria continua na minha trajetória.</p>
-
-###
+## 🧰 Tecnologias
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-###
-
-<h1 align="left">🛠️Language and tools</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/ca/39/3e/ca393eeebe754ff26afd2507e7da19c3.gif"  />
-</div>
-
-###
+## 🔧 Ferramentas
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
 
-###
+## 🎯 Atualmente
+
+- Aprofundando meus conhecimentos em programação e desenvolvimento de sistemas.
+- Desenvolvendo projetos para aplicar conceitos na prática.
+- Estudando fundamentos de backend e cibersegurança.
+- Construindo um portfólio e evoluindo continuamente.
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=siriuszzz17.siriuszzz17&"  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siriuszzz17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriuszzz17&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas">
 </div>
 
-###
+## 📫 Contato
+
+- **LinkedIn:** [Gustavo Martins](https://www.linkedin.com/in/gustavo-martins-neves-furtado-70740b341/)
+
+---
+
+*Aprendendo, construindo e evoluindo um projeto de cada vez.*
